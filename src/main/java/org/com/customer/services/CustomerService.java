@@ -38,10 +38,10 @@ import lombok.extern.slf4j.Slf4j;
 public class CustomerService
 {
    @Inject
-   private CustomerRepository  customerRepository;
+   CustomerRepository  customerRepository;
    
    @Inject
-   private CustomerMapper      customerMapper;
+   CustomerMapper      customerMapper;
    
    private static final Logger logger = LoggerFactory.getLogger( CustomerService.class );
    /**

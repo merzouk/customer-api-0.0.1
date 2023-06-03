@@ -50,7 +50,7 @@ public class CustomerResource
 {
 
     @Inject
-    private  CustomerService customerService;
+    CustomerService customerService;
 
     /**
      * 
