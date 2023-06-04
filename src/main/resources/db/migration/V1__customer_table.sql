@@ -22,6 +22,6 @@ insert into  manage.customer
     email  ,
     phone 
 ) values 
-(1, 'Ryan',    'Louis',     'MENHOUR', 'Mr',  'ryan@gmail.com',    '0112233445'),
-(2, 'Assia',   'Charlotte', 'MENHOUR', 'Mme', 'assia@gmail.com',   '0112233446'),
-(3, 'Merzouk', 'Gaspard',   'MENHOUR', 'Mr',  'merzouk@gmail.com', '0112233447');
+(1, 'Robert',    'Louis',     'MEN', 'Mr',  'robert@gmail.com',    '0112233445'),
+(2, 'Adelle',   'Charlotte', 'MEN', 'Mme', 'adelle@gmail.com',   '0112233446'),
+(3, 'Marc', 'Gaspard',   'MEN', 'Mr',  'mark@gmail.com', '0112233447');
